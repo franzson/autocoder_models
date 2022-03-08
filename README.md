@@ -9,6 +9,6 @@ As the input is monophonic, motion in the latent space translates into stepwise 
 
 The input data is taken from [VocalSet](https://zenodo.org/record/1203819).
 
-# [/cymbal/()
+# [/cymbal]()
 
-The input data is a fragment from the Cartography of Time –– for solo cymbal and live electronics, performed by Matthias Engler.
+A fragment from the Cartography of Time –– for solo cymbal and live electronics –– performed by Matthias Engler.
