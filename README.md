@@ -2,6 +2,8 @@
 
 This repository contains a number of pre-trained models for quick testing of the [autocoder external](https://).
 
+To train your own models, please see the [autocoder_training]() repository.
+
 # [/row]()
 
 A male and a female voice singing *row, row, row your boat.*
