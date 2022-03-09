@@ -20,7 +20,7 @@ A fragment from the Cartography of Time –– for solo cymbal and live electron
 A zip of the minimum needed files is [here]().
 
 Recommended resynthesis parameters:<br>
-    <pre>Brightness: .5<br>
-    Smoothing: 0 - .5<br>
-    Whitening: 0.9,</pre><br>
+    <pre>Brightness: .5
+    Smoothing: 0 - .5
+    Whitening: 0.9</pre>
   
