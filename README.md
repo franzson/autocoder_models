@@ -21,6 +21,6 @@ A zip of the minimum needed files is [here]().
 
 Recommended resynthesis parameters:<br>
     <pre>Brightness: .5<br>
-    <pre>Smoothing: 0 - .5<br>
-    <pre>Whitening: 0.9<br>
+    Smoothing: 0 - .5<br>
+    Whitening: 0.9,</pre><br>
   
