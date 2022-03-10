@@ -11,6 +11,10 @@ As the input is monophonic, motion in the latent space translates into stepwise 
 
 A zip of the minimum needed files is [here]().
 
+Recommended resynthesis parameters:<br>
+    <pre>Brightness: .5
+    Whitening: 0.8</pre>
+
 The input data is taken from [VocalSet](https://zenodo.org/record/1203819).
 
 # [/cymbal]()
