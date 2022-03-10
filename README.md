@@ -1,8 +1,8 @@
 # models
 
-This repository contains a number of pre-trained models for quick testing of the [autocoder external](https://).
+This repository contains a number of pre-trained models for quick testing of the [autocoder external](https://github.com/franzson/autocoder_external).
 
-To train your own models, please see the [autocoder_training]() repository.
+To train your own models, please see the [autocoder_training](https://github.com/franzson/autocoder_training) repository.
 
 # [/row]()
 
