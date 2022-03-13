@@ -28,4 +28,3 @@ Recommended resynthesis parameters:<br>
     Smoothing: 0 - .5
     Whitening: 0.9</pre>
   
-# [/impulses](https://github.com/franzson/autocoder_models/tree/main/impulses)
